@@ -2,8 +2,6 @@
 <h3 align="center">👨‍💻 Front End Developer | | Transitioning into Fullstack development 🌎</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amansharma9634" alt="amansharma9634" /></a> </p>
-
 - 🔭 I’m currently exploring **new opportunities.**
 
 - 🌱 I’m currently learning **Node.js and Next.js**
